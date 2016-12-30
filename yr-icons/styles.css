@@ -1,0 +1,289 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "untitled-font-3";
+  src:url("fonts/untitled-font-3.eot");
+  src:url("fonts/untitled-font-3.eot?#iefix") format("embedded-opentype"),
+    url("fonts/untitled-font-3.woff") format("woff"),
+    url("fonts/untitled-font-3.ttf") format("truetype"),
+    url("fonts/untitled-font-3.svg#untitled-font-3") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "untitled-font-3" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "untitled-font-3" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-01d:before {
+  content: "a";
+}
+.icon-06d:before {
+  content: "b";
+}
+.icon-13:before {
+  content: "c";
+}
+.icon-24n:before {
+  content: "d";
+}
+.icon-29d:before {
+  content: "e";
+}
+.icon-41n:before {
+  content: "f";
+}
+.icon-46:before {
+  content: "g";
+}
+.icon-47:before {
+  content: "h";
+}
+.icon-42d:before {
+  content: "i";
+}
+.icon-29m:before {
+  content: "j";
+}
+.icon-25d:before {
+  content: "k";
+}
+.icon-14:before {
+  content: "l";
+}
+.icon-06m:before {
+  content: "m";
+}
+.icon-01m:before {
+  content: "n";
+}
+.icon-01n:before {
+  content: "o";
+}
+.icon-06n:before {
+  content: "p";
+}
+.icon-15:before {
+  content: "q";
+}
+.icon-25m:before {
+  content: "r";
+}
+.icon-29n:before {
+  content: "s";
+}
+.icon-42m:before {
+  content: "t";
+}
+.icon-48:before {
+  content: "u";
+}
+.icon-49:before {
+  content: "v";
+}
+.icon-42n:before {
+  content: "w";
+}
+.icon-30:before {
+  content: "x";
+}
+.icon-25n:before {
+  content: "y";
+}
+.icon-20d:before {
+  content: "z";
+}
+.icon-07d:before {
+  content: "A";
+}
+.icon-02d:before {
+  content: "B";
+}
+.icon-02m:before {
+  content: "C";
+}
+.icon-07m:before {
+  content: "D";
+}
+.icon-20m:before {
+  content: "E";
+}
+.icon-26d:before {
+  content: "F";
+}
+.icon-31:before {
+  content: "G";
+}
+.icon-43d:before {
+  content: "H";
+}
+.icon-50:before {
+  content: "I";
+}
+.icon-43m:before {
+  content: "J";
+}
+.icon-32:before {
+  content: "K";
+}
+.icon-26m:before {
+  content: "L";
+}
+.icon-20n:before {
+  content: "M";
+}
+.icon-07n:before {
+  content: "N";
+}
+.icon-02n:before {
+  content: "O";
+}
+.icon-03d:before {
+  content: "P";
+}
+.icon-08d:before {
+  content: "Q";
+}
+.icon-21d:before {
+  content: "R";
+}
+.icon-26n:before {
+  content: "S";
+}
+.icon-33:before {
+  content: "T";
+}
+.icon-43n:before {
+  content: "U";
+}
+.icon-44d:before {
+  content: "V";
+}
+.icon-34:before {
+  content: "W";
+}
+.icon-27d:before {
+  content: "X";
+}
+.icon-21m:before {
+  content: "Y";
+}
+.icon-08m:before {
+  content: "Z";
+}
+.icon-03m:before {
+  content: "0";
+}
+.icon-03n:before {
+  content: "1";
+}
+.icon-08n:before {
+  content: "2";
+}
+.icon-21n:before {
+  content: "3";
+}
+.icon-27m:before {
+  content: "4";
+}
+.icon-40d:before {
+  content: "5";
+}
+.icon-44m:before {
+  content: "6";
+}
+.icon-44n:before {
+  content: "7";
+}
+.icon-40m:before {
+  content: "8";
+}
+.icon-27n:before {
+  content: "9";
+}
+.icon-22:before {
+  content: "!";
+}
+.icon-09:before {
+  content: "\"";
+}
+.icon-04:before {
+  content: "#";
+}
+.icon-05d:before {
+  content: "$";
+}
+.icon-10:before {
+  content: "%";
+}
+.icon-28d:before {
+  content: "&";
+}
+.icon-23:before {
+  content: "'";
+}
+.icon-40n:before {
+  content: "(";
+}
+.icon-45d:before {
+  content: ")";
+}
+.icon-45m:before {
+  content: "*";
+}
+.icon-45n:before {
+  content: "+";
+}
+.icon-41d:before {
+  content: ",";
+}
+.icon-28m:before {
+  content: "-";
+}
+.icon-28n:before {
+  content: ".";
+}
+.icon-41m:before {
+  content: "/";
+}
+.icon-24d:before {
+  content: ":";
+}
+.icon-24m:before {
+  content: ";";
+}
+.icon-11:before {
+  content: "<";
+}
+.icon-12:before {
+  content: "=";
+}
+.icon-05n:before {
+  content: ">";
+}
+.icon-05m:before {
+  content: "?";
+}
