@@ -4,13 +4,13 @@ Icon set for weather data provided by [Yr.no](http://om.yr.no/verdata/free-weath
 
 [More information about the different weather symbols](http://om.yr.no/forklaring/symbol/)
 
-## Usage
-1. Add this in your public folder
-2. Reference the main css file
+## Installation
+Reference the main css file
 ```html
         <link rel="stylesheet" href="/yr-icons/styles.css">
 ```
-3. Add class to elm (some icons has a night (n), day(d) and Polar Night (m) version)
+## Usage
+Add class to elm (some icons has a night (n), day(d) and Polar Night (m) version)
 ```html
         <span class="yr-icon-01d"></span>
         <span class="yr-icon-01m"></span>
