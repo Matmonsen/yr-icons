@@ -7,7 +7,7 @@ Icon set for weather data provided by [Yr.no](http://om.yr.no/verdata/free-weath
 ## Installation
 Reference the main css file
 ```html
-        <link rel="stylesheet" href="/yr-icons/style.css">
+        <link rel="stylesheet" href="./yr-icons/style.css">
 ```
 ## Usage
 Add class to elm (some icons has a night (n), day(d) and Polar Night (m) version)
