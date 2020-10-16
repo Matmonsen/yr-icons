@@ -1,6 +1,7 @@
 # Yr-icons
 
-Icon set for weather data provided by [Yr.no](http://om.yr.no/verdata/free-weather-data/)
+Icon set for weather data provided by [Yr.no](https://hjelp.yr.no/hc/no/articles/360001940793-Gratis-v%C3%A6rdata-fra-Yr)
+A fork of [Matmonsen/yr-icons](https://github.com/Matmonsen/yr-icons/blob/master/LICENSE). Forked to be able to create a NPM package and eventually add a wind arrow font + css for those.
 
 [More information about the different weather symbols](http://om.yr.no/forklaring/symbol/)
 

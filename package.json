@@ -1,0 +1,25 @@
+{
+  "name": "yr-icons",
+  "version": "0.0.1",
+  "description": "Icon set for weather data provided by Yr.no",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/yr-icons.git"
+  },
+  "keywords": [
+    "weather",
+    "forecast",
+    "icons",
+    "yr.no"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/yr-icons/issues"
+  },
+  "homepage": "https://github.com/eklem/yr-icons#readme"
+}
